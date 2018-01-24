@@ -1,10 +1,10 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="check.aspx.cs" Inherits="webSocket.check" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="check.aspx.cs" Inherits="check" %>
 <%@ Import Namespace="System.Diagnostics" %>
 <%@ Import Namespace="Microsoft.Win32" %>
 <%@ Import Namespace="System.Globalization" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" >
-<head id="Head1" runat="server">
+<head runat="server">
     <title>ASP.NET2.0探针</title>
 </head>
 <body>
